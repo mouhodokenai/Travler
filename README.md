@@ -41,7 +41,7 @@
 ## Документация
 Пользовательская документация:
 
-[Руководство пользователя](https://github.com/mouhodokenai/HabitsTasksTracker/wiki/6.-Руководство-пользователя)](https://github.com/mouhodokenai/Travler/wiki/8.-Руководство-пользователя)
+[Руководство пользователя](https://github.com/mouhodokenai/HabitsTasksTracker/wiki/6.-Руководство-пользователя)
 
 Документация разработки:
 
