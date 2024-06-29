@@ -41,23 +41,23 @@
 ## Документация
 Пользовательская документация:
 
-[[Руководство пользователя](https://github.com/mouhodokenai/HabitsTasksTracker/wiki/6.-Руководство-пользователя)](https://github.com/mouhodokenai/Travler/wiki/8.-Руководство-пользователя)
+[Руководство пользователя](https://github.com/mouhodokenai/HabitsTasksTracker/wiki/6.-Руководство-пользователя)](https://github.com/mouhodokenai/Travler/wiki/8.-Руководство-пользователя)
 
 Документация разработки:
 
-[[Техническое задание](https://github.com/mouhodokenai/Travler/wiki/1.-ТЗ-для-приложения)]
+[Техническое задание](https://github.com/mouhodokenai/Travler/wiki/1.-ТЗ-для-приложения)
 
-[[Требования]([https://github.com/mouhodokenai/Travler/wiki/3.-Требования])] 
+[Требования](https://github.com/mouhodokenai/Travler/wiki/3.-Требования)
 
-[[Спецификация](https://github.com/mouhodokenai/Travler/wiki/2.-Спецификация)]
+[Спецификация](https://github.com/mouhodokenai/Travler/wiki/2.-Спецификация)
 
-[[Прецеденты](https://github.com/mouhodokenai/Travler/wiki/4.-Таблицы-прецедентов)]
+[Прецеденты](https://github.com/mouhodokenai/Travler/wiki/4.-Таблицы-прецедентов)
 
-[[Уровни интеграции](https://github.com/mouhodokenai/Travler/wiki/5.-Уровни-интеграции)]
+[Уровни интеграции](https://github.com/mouhodokenai/Travler/wiki/5.-Уровни-интеграции)
 
-[[Логирование](https://github.com/mouhodokenai/Travler/wiki/6.-Логирование)]
+[Логирование](https://github.com/mouhodokenai/Travler/wiki/6.-Логирование)
 
-[[Тестирование](https://github.com/mouhodokenai/Travler/wiki/7.-Тестирование)]
+[Тестирование](https://github.com/mouhodokenai/Travler/wiki/7.-Тестирование)
 
 
 
